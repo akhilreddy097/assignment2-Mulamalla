@@ -31,3 +31,23 @@ Over a third of Goa is covered by forest. **There are almost 7,000 bars to choos
 
 ---
 
+# Restuarants, I Preffer Going To
+
+
+
+| Item  | Location  | Price  |   
+|---|---|---|
+|  chicken biryani |mehfil   |13$   |   
+|  egg roat |  shah ghouse | 20$  |   
+|mutton biryani   |  paradise | 12$  |   
+|  egg curry |  paradise |  10$ |
+
+***
+
+# Pithy Quotes
+
+>Nowadays you have to be a scientist if you want to be a killer.
+― *Vladimir Nabokov, Lolita*
+
+>It's always darkest before you're blinded by the light.
+― *josh stern*
